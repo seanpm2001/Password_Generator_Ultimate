@@ -1,0 +1,1 @@
+An old program I made that helps generate passwords. This project is far from complete, and I want to try and bring new life to it, adding in features such as password strength testing, exporting in various formats, and more.
